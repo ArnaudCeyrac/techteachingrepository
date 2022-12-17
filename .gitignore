@@ -38,3 +38,6 @@ $RECYCLE.BIN/
 
 # Local environment variables
 .env
+
+#Other components
+**/lwc/tD1_Gabriel/
