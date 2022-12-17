@@ -1,4 +1,4 @@
-# Coucou toi
+# Twelve tech lead trail
 Ce repository est la pour t'aider à progresser plus vite sur LWC. 
 C'est une base de travail qui te permettra de commencer avec une structure 
 ## Liens utiles 
